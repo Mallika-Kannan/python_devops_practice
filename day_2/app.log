@@ -1,0 +1,7 @@
+2023-10-28 10:00:01 INFO: Application starting up...
+2023-10-28 10:00:02 INFO: Connecting to database at db.example.com.
+2023-10-28 10:01:10 ERROR: Failed to connect to payment gateway: Connection refused.
+2023-10-28 10:01:15 ERROR: Payment gateway connection failed after retry: Timeout.
+2023-10-28 10:02:20 WARNING: Disk space is running low on /var/log.
+2023-10-28 10:03:32 ERROR: [critical] Unhandled exception in processing request #12345: NullPointerException.
+2023-10-28 10:04:00 INFO: Application shutdown complete.
