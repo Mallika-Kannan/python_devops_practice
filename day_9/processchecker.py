@@ -7,7 +7,7 @@ def check_process (process_name):
     return False
 
 if __name__ == "__main__":
- process_to_check = "nginx"
+ process_to_check = input ("Enter the process name").strip()
  if check_process (process_to_check):
     print(f"The process '{process_to_check}' is running.")
  else : 
