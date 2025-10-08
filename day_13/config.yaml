@@ -1,0 +1,10 @@
+app:
+  name: demo-web-app
+  version: 1.0
+  environment: dev
+
+database:
+  host: localhost
+  port: 3306
+  username: admin
+  password: secret123
